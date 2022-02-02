@@ -1,2 +1,2 @@
-# PRO-C73-PROJECT
-Project solution code
+# PRO-C73-PROYECTO
+Código de solución del proyecto
