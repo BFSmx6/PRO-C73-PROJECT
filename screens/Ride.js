@@ -96,7 +96,7 @@ export default class RideScreen extends Component {
       if (isEligible) {
         var { bikeType, userName } = this.state;
         this.returnBike(bikeId, userId, bikeType, userName);
-        Alert.alert(Esperamos que hayas disfrutado tu viaje");
+        Alert.alert("Esperamos que hayas disfrutado tu viaje");
         this.setState({
           bikeAssigned: false
         });
